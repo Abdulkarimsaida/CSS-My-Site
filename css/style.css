@@ -1,0 +1,122 @@
+.m{
+  height: 50%;
+  /* width: 0%;
+  /* border: 10px;
+  /* padding: 20px; */
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: sans-serif;
+}
+body{
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  color: #40514E;
+}
+#m{
+  color: #11999E;
+}
+h1{
+    margin-top: 50px;
+    font-size: 50px;
+    color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  border: dotted #40514E 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.display{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.bc{
+  position: absolute;
+  left: 200px;
+}
+.tc{
+  position: relative;
+  left: 250px;
+  margin-top: 30px;
+}
+.sp{
+  text-decoration: underline;
+}
+.middle-container{
+  background-color: white;
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color: white;
+}
+.f-d{
+  width: 60%;
+  height: 60%;
+  float: right;
+  margin-left: 30px;
+}
+.code-image{
+  float: left;
+  margin-right: 30px;
+}
+.skill-row{
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 0;
+}
